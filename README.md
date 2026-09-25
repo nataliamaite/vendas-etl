@@ -48,6 +48,23 @@ projeto-etl-vendas/
 └── README.md
 ```
 
+## Objetivos de aprendizado
+
+Este projeto foi desenvolvido para praticar conceitos fundamentais de Engenharia de Dados:
+
+* ETL;
+* extração de dados;
+* transformação e limpeza de dados;
+* tratamento de valores nulos;
+* tratamento de duplicidades;
+* padronização de dados;
+* manipulação de DataFrames com Pandas;
+* integração entre Python e PostgreSQL;
+* execução de comandos SQL através do Python;
+* carregamento de dados em banco de dados;
+* organização de um projeto de dados.
+
+
 ## Etapas do ETL
 
 ### 1. Extract
@@ -248,34 +265,6 @@ conexao = psycopg2.connect(
 ```bash
 python src/main.py
 ```
-
-## Objetivos de aprendizado
-
-Este projeto foi desenvolvido para praticar conceitos fundamentais de Engenharia de Dados:
-
-* ETL;
-* extração de dados;
-* transformação e limpeza de dados;
-* tratamento de valores nulos;
-* tratamento de duplicidades;
-* padronização de dados;
-* manipulação de DataFrames com Pandas;
-* integração entre Python e PostgreSQL;
-* execução de comandos SQL através do Python;
-* carregamento de dados em banco de dados;
-* organização de um projeto de dados.
-
-## Próximos passos
-
-Possíveis evoluções do projeto:
-
-* utilização de APIs como fonte de dados;
-* criação de pipelines automatizados;
-* utilização de Docker;
-* criação de uma camada de staging;
-* implementação de um Data Warehouse;
-* integração com serviços de nuvem;
-* criação de dashboards utilizando ferramentas de BI.
 
 ## Autor
 
