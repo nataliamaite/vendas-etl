@@ -1,6 +1,6 @@
 # Projeto ETL de Vendas
 
-Projeto introdutório de Engenharia de Dados desenvolvido para praticar um pipeline de ETL utilizando Python, Pandas e PostgreSQL.
+Projeto introdutório desenvolvido para praticar um pipeline de ETL utilizando Python, Pandas e PostgreSQL.
 
 O projeto realiza a extração de dados de vendas a partir de um arquivo CSV, aplica transformações e regras básicas de qualidade de dados e, por fim, carrega os dados tratados em um banco de dados PostgreSQL.
 
